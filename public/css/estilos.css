@@ -1,0 +1,15 @@
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.mt-35 {
+  margin-top: 35px;
+}
+
+.pb-35 {
+  padding-bottom: 35px;
+}
