@@ -3,11 +3,12 @@ PHP full store website<br/>
 
 Includes<br/>
 -- MVC Php code<br/>
+-- Bootstrap4 <br/>
+-- MariaDB <br/>
 -- CSS/Js<br/>
 
 how make it run?<br/>
 
--- donwload the zip and extract<br/><br/>
 -- run your xampp<br/>
 -- import the novastudio.sql file<br/>
 -- ready to go<br/>
